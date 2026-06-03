@@ -1,0 +1,6 @@
+numpy
+scipy
+numba
+librosa
+soundfile
+music21
